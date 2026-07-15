@@ -15,9 +15,9 @@ It supports hexadecimal RGB: **&#FF0000**!
 ```
 #
 #        xRoulette - v1.0
-#       Made for DevAdvvy
+#       Made for AdvvyX
 #
-# GITHUB: https://github.com/DevAdvvy
+# GITHUB: https://github.com/AdvvyX
 
 # MULTIPLIERS FOR ANY COLOR
 multipliers:
