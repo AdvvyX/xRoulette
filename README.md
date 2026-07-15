@@ -11,13 +11,6 @@ It supports hexadecimal RGB: **&#FF0000**!
 /roulette
 ```
 
-> Preview Roulette InGame 🔍!
-
-![Roulette1](https://cdn.discordapp.com/attachments/1493997341554901094/1500008370264866867/aTA8V5b.gif?ex=69f6df28&is=69f58da8&hm=4933b9d9d4bc9f17880baee4cf2506fafd3fe3c9c365c3e0ae73f7698d9a4a30&)
-
-> Preview Roulette Announce 💬!
-
-![Roulette2](https://media.discordapp.net/attachments/1447248025771839685/1499996556303138827/image.png?ex=69f6d427&is=69f582a7&hm=5b9eb520d30ded6f5adb68fd7b2582cff2db02f1251fa7277c506ff4ba51d887&=&format=webp&quality=lossless)
 # config.yml Archive ⚡
 ```
 #
