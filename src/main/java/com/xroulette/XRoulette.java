@@ -54,8 +54,8 @@ public class XRoulette extends JavaPlugin {
         log("&c       ¡START NOW!");
         log("&c    &f" + getName() + " - v" + getDescription().getVersion());
         log("&4-----------------------");
-        log("&c    Author: &fDevAdvvy");
-        log("&c Git: &fgithub.com/DevAdvvy");
+        log("&c    Author: &fAdvvyX");
+        log("&c Git: &fgithub.com/AdvvyX");
         log("&4-----------------------");
     }
 
